@@ -1,0 +1,8 @@
+[gitlab]
+url = https://gitlab.com
+private_token = your_private_token_here
+username = your_gitlab_username
+
+[date_range]
+start_date = 2025-01-01
+end_date = 2025-12-31
